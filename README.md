@@ -6,4 +6,4 @@ y análisis de resultados mediante métricas y visualizaciones.
 
 Se adjunta Archivo PPT
 Notebook con codigo
-y data en archivos .sqv
+y data en archivos .csv
